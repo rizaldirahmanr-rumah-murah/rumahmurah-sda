@@ -9,9 +9,9 @@ export const properties = [
     location: "PERUMTAS 4, Cluster Gardenia, Sidodadi ",
     image: "https://images.unsplash.com/photo-1568605114967-8130f3a36994?auto=format&fit=crop&q=80&w=800",
     specs: { 
-      bed: 3, 
-      bath: 2, 
-      size: 90 
+      bed: 2, 
+      bath: 1, 
+      size: 134 
     }
   },
   {
